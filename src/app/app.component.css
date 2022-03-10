@@ -1,0 +1,23 @@
+.container {
+    border: 1px gray solid;
+    background-color: lightgray;
+    border-radius: 1.5rem;
+    padding: 1rem 1rem;
+    margin: 1rem;
+}
+
+.container-display {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+}
+
+.container-display {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.container-display span {
+    font-weight: 500;
+    margin-right: 0.5rem;
+}
